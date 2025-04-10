@@ -1,0 +1,1 @@
+This is just a basic linear regression model that detect the prize of the car based on feature like'Year', 'Engine HP', 'Engine Cylinders', 'Transmission Type','Driven_Wheels', 'Age', 'Average Mgp', 'Popularity'.
